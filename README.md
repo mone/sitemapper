@@ -19,4 +19,4 @@ go get github.com/onsi/gomega/...
 ## Run
 
 once built
-`./sitemapper http://www.example.com`
+`./sitemapper http://www.example.com/`
